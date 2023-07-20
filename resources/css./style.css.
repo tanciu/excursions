@@ -12,6 +12,18 @@ body {
     color #ffffff;
 }
 
+.header--secondary {
+    front-weight: 300;
+    front-size: 42px;
+    color: #ffffff;
+}
+
+.header--sub-header {
+    
+}
+
+
+
 /*  LINKS  */
 
 .link--cta {
